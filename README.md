@@ -41,3 +41,23 @@ between the colorized output and the original images.
  Qualitatively Analyse Colorization Results
 Visualize the colorized outputs and compare them against original color images to assess the
 model's ability to generate realistic and vibrant colors. 
+
+
+Future Scope
+The future of automatic colorization of black-and-white images holds immense potential
+across various domains. Advancements in AI and deep learning are expected to enhance the
+realism and precision of colorized outputs, making them indistinguishable from true-colored
+images. User-controlled customization features can provide greater flexibility, allowing
+individuals to fine-tune colors and styles according to their preferences. Real-time
+colorization of videos and live streams is also a promising avenue, facilitated by faster
+computing and cloud-based technologies. Integration with augmented reality (AR) and
+virtual reality (VR) can create immersive experiences, especially in education, tourism, and
+entertainment. Beyond photographs, this technology could be applied to domains like
+medical imaging, satellite imagery, and scientific visualization, where adding color can
+provide valuable insights. For historical research and cultural preservation, automatic
+colorization can assist in restoring large volumes of archival images while respecting cultural
+and regional nuances. Furthermore, the development of self-learning models can reduce the
+dependency on labeled datasets, enabling more adaptive and efficient learning. These
+advancements position automatic colorization as a transformative tool with wide-ranging
+applications in the future. 
+
